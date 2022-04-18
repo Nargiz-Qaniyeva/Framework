@@ -1,0 +1,47 @@
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Entity Framework.exe
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Entity Framework.deps.json
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Entity Framework.runtimeconfig.json
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Entity Framework.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Entity Framework.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Entity Framework.pdb
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.AssemblyInfo.cs
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.csproj.CopyComplete
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.dll
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.pdb
+C:\Users\nargi\Desktop\18.04.21\Entity Framework\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.genruntimeconfig.cache
